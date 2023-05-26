@@ -1,7 +1,7 @@
 function Commencer () {
     basic.showIcon(IconNames.SmallSquare)
     basic.pause(500)
-    basic.showString("Touche le centre")
+    basic.showString("CenterIt")
     music.setVolume(50)
     music.playMelody("E B C5 A B G A F ", 240)
     music.playMelody("E B C5 A B G A F ", 240)
